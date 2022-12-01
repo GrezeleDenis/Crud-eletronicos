@@ -11,7 +11,7 @@ $ cd client
 
 $ npm install
 
-$ npm start
+$ npm start - para abrir a página web
 
 
 
@@ -23,7 +23,7 @@ $ cd server
 
 $ npm install
 
-$ node .\index.js
+$ node .\index.js  - para rodar o servidor
 
 
 
