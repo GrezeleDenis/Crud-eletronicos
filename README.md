@@ -7,7 +7,6 @@
 Installation
 Client
 
-
 $ cd client
 
 $ npm install
@@ -15,15 +14,21 @@ $ npm install
 $ npm start
 
 
+
 Server
+
  mudar banco de dados Mysql server/index.js
+ 
 $ cd server
+
 $ npm install
+
 $ node .\index.js
 
 
 
 Bibliotecas Usadas
+
 Axios
 express
 mysql
