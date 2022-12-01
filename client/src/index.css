@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  /* background-image: url('/public/img/fundo.png');
+  background-size: cover; */
+}
+
+h1, h2, h3 {
+  margin: 0;
+  font-family: "Comic Sans MS", "Comic Sans", "cursive";    font-weight: 900;
+  color:midnightblue
+}
+
+body {
+  font-family: "Comic Sans MS", "Comic Sans", "cursive";
+  font-weight: 900;
+  color: aquamarine;
+  
+}
+
+
+
